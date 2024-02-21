@@ -1,4 +1,9 @@
-# Roland Fehr
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+<!-- # Roland Fehr
 Steinbach, MB
 
 ## WORK EXPERIENCE
@@ -8,4 +13,4 @@ Steinbach, MB
 - Test
 
 ## SUMMARY OF SKILLS
-- Test
+- Test -->
